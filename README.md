@@ -2,8 +2,7 @@
 
 <img width="1360" height="909" alt="Prescripto" src="https://github.com/user-attachments/assets/52ef534f-3a52-4ece-8180-1d904093fa07" />
 
-Full-Stack Developer | Mar – Jun 2025  
-**GitHub Repository:** [https://github.com/SagarKumarSah923/Prescripto](https://github.com/SagarKumarSah923/Prescripto)  
+Full-Stack Developer | Mar – Jun 2025   
 **Live Demo (Vercel):** [https://prescripto-theta-weld.vercel.app/](https://prescripto-theta-weld.vercel.app/)  
 
 ---
